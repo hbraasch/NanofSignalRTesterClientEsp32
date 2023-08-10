@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{11A8DD76-328B-46DF-9F39-F559912D0360}") = "NanofSignalRTesterClientEsp32", "NanofSignalRTesterClientEsp32.nfproj", "{F9B7B77B-F411-46D0-AACE-03F1A8652282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9B7B77B-F411-46D0-AACE-03F1A8652282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B7B77B-F411-46D0-AACE-03F1A8652282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B7B77B-F411-46D0-AACE-03F1A8652282}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F9B7B77B-F411-46D0-AACE-03F1A8652282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B7B77B-F411-46D0-AACE-03F1A8652282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B7B77B-F411-46D0-AACE-03F1A8652282}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99C4C13D-8231-4956-B9E3-89A1896AA852}
+	EndGlobalSection
+EndGlobal
